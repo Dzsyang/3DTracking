@@ -18,6 +18,16 @@
 
 ### all-in-one
 
+- **BTrack**
+  - Paper:
+    - [Automated deep lineage tree analysis using a Bayesian single cell tracking approach](https://www.frontiersin.org/article/10.3389/fcomp.2021.734559) [![doi:10.3389/fcomp.2021.734559](https://img.shields.io/badge/doi-10.3389%2Ffcomp.2021.734559-blue)](https://doi.org/10.3389/fcomp.2021.734559)
+    - [Local cellular neighbourhood controls proliferation in cell competition](http://www.molbiolcell.org/content/28/23/3215.abstract) [![doi:10.1091/mbc.E17-06-0368](https://img.shields.io/badge/doi-10.1091%2Fmbc.E17--06--0368-blue)](https://doi.org/10.1091/mbc.E17-06-0368)
+  - Code:
+    - [Github repo](https://github.com/quantumjot/btrack)
+    - Form: Python package
+  - Using:
+  - Methods:
+  - Test:
 - **Deeptrack**
   - Paper:
     - [Quantitative Digital Microscopy with Deep Learning](https://pubs.aip.org/aip/apr/article/8/1/011310/238663/Quantitative-digital-microscopy-with-deep-learning)
@@ -79,7 +89,7 @@
     - Pytorch
   - Methods:
   - Test:
-    - [ ] in ``
+    - [ ] in `tests/cell_segment/cellpose/`
 - **Stardist**
   - Paper:
     - [Cell Detection with Star-Convex Polygons](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_30)
@@ -91,4 +101,4 @@
     - Tensorflow
   - Methods:
   - Test:
-    - [ ] in ``
+    - [ ] in `tests/cell_segment/stardist/`
